@@ -1,0 +1,2 @@
+Extend Task 1 to keep a daily total of payments made for parking. The daily total is zeroed at the start of the day. For the simulation, each customer inputs the amount paid, this must be greater than or equal to the amount displayed. There is no change given so the amount input may exceed the amount displayed.
+Each customer payment is added to the daily total, and this total is displayed at the end of the day.
